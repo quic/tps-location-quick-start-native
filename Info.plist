@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>CFBundleExecutable</key>
-    <string>location-quick-start</string>
+    <string>location-quick-start1</string>
     <key>CFBundleIdentifier</key>
     <string>com.skyhook.locationquickstart</string>
     <key>LSUIElement</key>
